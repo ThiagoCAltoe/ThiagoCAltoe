@@ -82,6 +82,14 @@ Desenvolvedor **Backend** brasileiro apaixonado por criar soluções robustas e 
   <img src="https://github-profile-trophy.vercel.app/?username=thiagocaltoe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="trophy" />
 </div>
 
+## 🎓 Badges e Certificações
+
+<div align="left">
+  <a href="https://www.credly.com/badges/90171a70-4c9b-4533-b15b-a339693365c9" target="_blank">
+    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" height="110"/>
+  </a>
+</div>
+
 ## 📈 Contribuições
 
 <div align="center">
