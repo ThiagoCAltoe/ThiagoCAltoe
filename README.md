@@ -86,7 +86,7 @@ Desenvolvedor **Backend** brasileiro apaixonado por criar soluções robustas e 
 
 <div align="left">
   <a href="https://www.credly.com/badges/90171a70-4c9b-4533-b15b-a339693365c9" target="_blank">
-    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" height="110"/>
+    <img src="https://images.credly.com/size/110x110/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="AWS Academy Graduate - Cloud Foundations" width="110" height="110"/>
   </a>
 </div>
 
